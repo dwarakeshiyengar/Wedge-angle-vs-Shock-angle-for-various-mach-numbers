@@ -32,7 +32,7 @@ $$\tan\theta = 2 \cot\beta \left[ \frac{M^2 \sin^2\beta - 1}{M^2 (\gamma + \cos 
 | `gamma` | `1.4` | Specific heat ratio (Air) |
 | `Mach_numbers` | `[1.5, 2, ..., 6]` | Array of free-stream Mach numbers to plot |
 | `num_points` | `300` | Resolution of discretization points for $\beta$ |
-| `beta_min`, `beta_max` | `0^\circ`, `90^\circ` | Domain boundary for shock angle sweep |
+| `beta_min`, `beta_max` | `0°`, `90°` | Domain boundary for shock angle sweep |
 
 ---
 
