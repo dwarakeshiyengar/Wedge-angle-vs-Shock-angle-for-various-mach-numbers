@@ -13,7 +13,7 @@ For a given Mach number $M$, there are generally two possible shock angles ($\be
 * **Weak Shock Solution:** Lower $\beta$, typical in unconstrained flows.
 * **Strong Shock Solution:** Higher $\beta$, occurring under high back-pressure conditions.
 
-`theta beta.m` generates a clean family of curves visualizing these shock states across various free-stream Mach numbers.
+`theta_beta.m` generates a clean family of curves visualizing these shock states across various free-stream Mach numbers.
 
 ---
 
@@ -45,7 +45,7 @@ $$\tan\theta = 2 \cot\beta \left[ \frac{M^2 \sin^2\beta - 1}{M^2 (\gamma + \cos 
 1. Clone or download the repository.
 2. Open MATLAB and run:
    ```matlab
-   theta beta
+   theta_beta
 
 ```
 
