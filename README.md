@@ -47,7 +47,7 @@ $$\tan\theta = 2 \cot\beta \left[ \frac{M^2 \sin^2\beta - 1}{M^2 (\gamma + \cos 
    ```matlab
    theta_beta
 
-```
+
 
 ---
 
@@ -67,6 +67,4 @@ The peak of each curve represents $\theta_{\max}$, the maximum wedge angle for a
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-```
 
-```
